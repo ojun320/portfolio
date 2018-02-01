@@ -4,7 +4,7 @@ var gApp = angular.module('gApp', []);
     	$rootScope.dns = "GooDee";
     	$rootScope.title = "Portfolio";
     	$rootScope.name = "한승준";
-        $rootScope.name2 = "한승준 프로젝트 입니다.";
+        $rootScope.name2 = "";
     });
 	gApp.controller('gCtrl', function($scope) {
 		$scope.htmlCheck = false;
