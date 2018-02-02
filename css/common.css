@@ -38,7 +38,7 @@ button { cursor: pointer; }
 
 footer {
 	clear: both;
-	background-color: rgba(47, 23, 15, 0.9);
+	background-color: rgba(0, 0, 0, 0);
 	color: rgba(255, 255, 255, 0.3);
 }
 footer a:hover { color: red; }
